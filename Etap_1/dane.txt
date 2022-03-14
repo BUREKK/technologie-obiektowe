@@ -1,0 +1,20 @@
+Maciej Burek, macko0939@gmail.com, 1ID21A
+
+Modelowanie bazy danych
+
+Interfejs graficzny zostanie napisany przy u¿yciu jêzyka C++
+
+Mo¿liwoœci interfejsu graficznego:
+
+Tworzenie tabel i jej atrybutów,
+Tworzenie po³¹czeñ jeden do wielu, jeden do jeden, wiele do wielu,
+
+Tworzenie kluczy,
+
+Dziedziczenie-Table per Class
+
+Program bêdzie ³¹czy³ siê z baz¹ danych MySQL oraz wysy³a³ do niej skrypt
+
+Temat pracy in¿ynierskiej "Projekt smart system do odstraszania ptaków"
+
+https://github.com/BUREKK/technologie-obiektowe.git
